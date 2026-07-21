@@ -87,9 +87,6 @@ Procurement Completed
 ### Frontend
 
 - React.js
-- HTML
-- CSS
-- JavaScript
 - Axios
 
 ### Backend
